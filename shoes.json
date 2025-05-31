@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "nombre": "TATIS",
+    "precio": 129900,
+    "tallas": ["35", "36", "36", "37","39" ,"40"],
+    "imagenes": [
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110120.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110225.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110056.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105824.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105642.png?raw=true"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "PAMELA",
+    "precio": 149900,
+    "tallas": ["35", "36", "36", "37","39" ,"40"],
+    "imagenes": [
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105949.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110031.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110134.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110155.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110144.png?raw=true"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "MICROPOROSA",
+    "precio": 25000,
+    "tallas": ["35 - 40"],
+    "imagenes": [
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105548.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105752.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105803.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20105959.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-11-14%20110013.png?raw=true"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "PAMELA 2",
+    "precio": 25000,
+    "tallas": ["35", "36", "36", "37","39" ,"40"],
+    "imagenes": [
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-14%20100946.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-14%20101043.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-14%20101059.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-14%20101114.png?raw=true"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "TATIS 2",
+    "precio": 25000,
+    "tallas": ["35", "36", "36", "37","39" ,"40"],
+    "imagenes": [
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-22%20145609.png?raw=true",
+      "https://github.com/Bguerrero3219980768/Previo2/blob/main/Captura%20de%20pantalla%202024-10-22%20150038.png?raw=true",
+      "https://raw.githubusercontent.com/usuario/repositorio/main/zapato1_3.jpg"
+    ]
+  }
+]
